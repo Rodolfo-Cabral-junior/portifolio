@@ -86,4 +86,4 @@ Full Stack Developer · Cabr@lvesTecnologia
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rodolfo--Cabral--junior-black)](https://github.com/Rodolfo-Cabral-junior)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodolfo--junior-blue)](https://www.linkedin.com/in/rodolfo-junior-6768a8333/)
-[![Email](https://img.shields.io/badge/Email-cabralvestecnologia@gmail.com-gold)](mailto:cabralvestecnologia@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cabralvestecnologia@gmail.com-gold)](mailto:cabralvestecnologia@gmail.com)"" 
